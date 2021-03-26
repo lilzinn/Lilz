@@ -7,7 +7,7 @@ const OriginalOwner = '557388843631'
 const cr = '𝐁𝐑𝐈𝐙𝐀𝐒 𝐁𝐎𝐓\n' 
 // texto do simbolo de verificado
 
-const prefix = '!' 
+const prefix = '-' 
 // prefixo
 
 const apiTobz = 'key'
