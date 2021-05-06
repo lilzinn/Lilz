@@ -1,7 +1,7 @@
-const ownerNumber = ["557388382151@s.whatsapp.net"] 
+const ownerNumber = ["557388843631@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557388382151' 
+const OriginalOwner = '557388843631' 
 // mude para seu numero
 
 const gimagenotregister = true
@@ -60,7 +60,7 @@ const adminmsgporn = '*Tu é adm ent n vou te banir por mandar porn*'
 const banmsglink = '*Vacilo aqui é só um, pega esse voo otaro🛫...*'
 // mensagem de ban no antilink
 
-const adminmsglink = 'Isso é um link amigo... ah é tu é adm ent pode kkkk 🙃'
+const adminmsglink = 'Isso é um link amigo... ah é tu é adm ent pode kkkk 😇'
 // mensagem de quando adm manda link
 
 const adminmsgpalavra = 'isso esta na lista das palavras proibidas pelo bot'
@@ -133,7 +133,7 @@ let mess = {
 const vcard = 'BEGIN:VCARD\n' 
 + 'VERSION:3.0\n' 
 + 'FN:Meu criador^~^\n' 
-+ 'ORG:Ian;\n' 
++ 'ORG:BRIZAS;\n' 
 + 'TEL;type=CELL;type=VOICE;waid=557187645787:+55 71 8764-5787\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
