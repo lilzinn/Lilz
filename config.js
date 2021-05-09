@@ -1,4 +1,4 @@
-const ownerNumber = ["557388843631@s.whatsapp.net"] 
+const ownerNumber = ["557388843631@s.whatsapp.net","559288234653@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
 const OriginalOwner = '557388843631' 
@@ -31,7 +31,7 @@ const menumsgimg = (numero, groupname) => {
 const apikeyimgbb = '1eb4ea79f7e4eef8241d5bdb054adc01'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
-const cr = 'Termux ❯_\n' 
+const cr = '‹ BOT › BRIZΔS >_\n' 
 // texto do simbolo de verificado
 
 const prefix = '-' 
